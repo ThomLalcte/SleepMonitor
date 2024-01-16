@@ -1,0 +1,5 @@
+*.zip
+SleepMonitor-backups/
+SleepMonitor-rounded-backups/
+fp-info-cache
+*.svg
